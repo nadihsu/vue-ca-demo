@@ -1,0 +1,5 @@
+common:
+  default_page: Default page
+  name: Name
+  skill: SKill
+  view_user_list: View user list

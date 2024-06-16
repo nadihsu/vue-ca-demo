@@ -1,0 +1,5 @@
+common:
+  default_page: 預設頁面
+  name: 姓名
+  skill: 技能
+  view_user_list: 查看使用者

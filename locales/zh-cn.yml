@@ -1,0 +1,5 @@
+common:
+  default_page: 默认页面
+  name: 姓名
+  skill: 技能
+  view_user_list: 查看用户列表

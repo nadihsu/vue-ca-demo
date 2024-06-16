@@ -1,0 +1,35 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.fixAll.stylelint": "explicit"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": false,
+  "editor.tabSize": 2,
+  "eslint.validate": ["javascript", "typescript", "vue"],
+  "stylelint.config": null,
+  "stylelint.validate": [
+    "css",
+    "less",
+    "postcss",
+    "sass",
+    "scss",
+    "vue"
+  ],
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "i18n-ally.localesPaths": [
+    "locales"
+  ],
+  "i18n-ally.keystyle": "nested",
+  "cSpell.words": [
+    "composables",
+    "usecases",
+    "usecase"
+  ],
+  "i18n-ally.sourceLanguage": "zh-tw",
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.includeLanguages": {
+    "vue-html": "html",
+  },
+  "vue.complete.casing.props": "autoCamel"
+}
